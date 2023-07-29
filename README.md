@@ -1,4 +1,4 @@
-ko- 👋 Hi, I’m @jemmygold22
+- 👋 Hi, I’m @jemmygold22
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to code professionally
 - 💞️ I’m looking to collaborate on creating code
